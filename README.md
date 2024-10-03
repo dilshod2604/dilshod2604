@@ -4,15 +4,16 @@
 
 ## 🚀 About Me
 
-I am a passionate **frontend developer** with a strong background in **React**, **TypeScript**, and other modern web technologies. I enjoy building responsive and dynamic websites and applications, constantly striving to improve my skills. In my spare time, I love exploring new technologies and contributing to open-source projects.
+Hi there! I'm Dilshod  I am a strong **Front-end developer** with a strong background in **React**, **TypeScript**,**Next.js** and other modern web technologies. I enjoy building responsive and dynamic websites and applications, constantly striving to improve my skills. In my spare time, I love exploring new technologies and contributing to open-source projects.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+[![Dilshod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshod2604&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
