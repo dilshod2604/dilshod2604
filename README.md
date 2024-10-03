@@ -44,7 +44,7 @@ Hi there! I'm Dilshod  I am a strong **Front-end developer** with a strong backg
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Movie-Stream** | A cool movie web site using Next.js and TypeScript. | [View on GitHub](https://github.com/yourusername/project1) |
+| **Movie-Stream** | A cool movie web site using Next.js and TypeScript. | [View on GitHub](https://github.com/dilshod2604/Movie-Stream) |
 | **Project 2** | An awesome tool built with Next.js and Vite. | [View on GitHub](https://github.com/yourusername/project2) |
 
 ---
