@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **frontend developer** with a strong background in **React**, **TypeScript**, and other modern web technologies. I enjoy building responsive and dynamic websites and applications, constantly striving to improve my skills.
+I am a passionate **frontend developer** with a strong background in **React**, **TypeScript**, and other modern web technologies. I enjoy building responsive and dynamic websites and applications, constantly striving to improve my skills. In my spare time, I love exploring new technologies and contributing to open-source projects.
 
 ---
 
@@ -52,4 +52,3 @@ I am a passionate **frontend developer** with a strong background in **React**, 
 ## 📧 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshodadilbekov456@gmail.com)
-
