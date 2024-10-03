@@ -1,26 +1,99 @@
-# Hi, I'm Dilshod! 👋
+# Hi, I'm [Your Name]! 👋
 
 ![GitHub Banner](https://yourimageurl.com/banner.jpg) 
 
 ## 🚀 About Me
 
-I am a passionate **frontend developer** with a strong background in **React**, **TypeScript**, and other modern web technologies. I enjoy building responsive and dynamic websites and applications, constantly striving to improve my skills.
+I am a passionate **frontend developer** with a strong background in **React**, **TypeScript**, and modern web technologies. I love building interactive and visually appealing web applications.
 
 ---
 
 ## 🛠️ Skills
 
-| Technology | Proficiency |
-|------------|-------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![90%](https://progress-bar.dev/90) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![85%](https://progress-bar.dev/85) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![80%](https://progress-bar.dev/80) |
-| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![75%](https://progress-bar.dev/75) |
-| ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![80%](https://progress-bar.dev/80) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![75%](https://progress-bar.dev/75) |
-| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) | ![70%](https://progress-bar.dev/70) |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) | ![75%](https://progress-bar.dev/75) |
-| ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white) | ![80%](https://progress-bar.dev/80) |
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>React</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 90%; background-color: #61DAFB; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        90%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>TypeScript</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 85%; background-color: #007ACC; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        85%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>Next.js</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 80%; background-color: #000000; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        80%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>Vite</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 75%; background-color: #646CFF; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        75%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>SASS</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 80%; background-color: #CC6699; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        80%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>Tailwind CSS</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 75%; background-color: #38B2AC; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        75%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>GSAP</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 70%; background-color: #88CE02; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        70%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>Framer Motion</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 75%; background-color: #0055FF; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        75%
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 45%; margin-bottom: 10px;">
+    <strong>Ant Design</strong>
+    <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 80%; background-color: #0170FE; padding: 5px; color: white; text-align: center; border-radius: 5px;">
+        80%
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ---
 
@@ -52,4 +125,3 @@ I am a passionate **frontend developer** with a strong background in **React**, 
 ## 📧 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshodadilbekov456@gmail.com)
-
