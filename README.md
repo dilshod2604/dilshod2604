@@ -2,6 +2,11 @@
 
 ## 🚀 About Me
 
+<a href="https://github.com/dilshod2604">
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+</a>
+
+---
 Hi there! I'm Dilshod  I am a strong **Front-end developer** with a strong background in **React**, **TypeScript**,**Next.js** and other modern web technologies. I enjoy building responsive and dynamic websites and applications, constantly striving to improve my skills. In my spare time, I love exploring new technologies and contributing to open-source projects.
 
 ---
