@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 <a href="https://github.com/dilshod2604">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I'm Frontend Developer"/>
 </a>
 
 ---
